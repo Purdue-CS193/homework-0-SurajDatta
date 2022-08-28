@@ -3,4 +3,3 @@
 ## CS 193 Favs
 - Great TA's
 - Interesting course contents
-- 
